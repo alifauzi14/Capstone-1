@@ -1,4 +1,4 @@
-# Capstone-1 - Purwadhika Digital School Surabaya
+# Capstone 1 - Purwadhika Digital School Surabaya
 
 # Shop Sale Program
 
