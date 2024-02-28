@@ -1,3 +1,7 @@
+## Capstone Project 1 - Purwadhika Digital School Surabaya
+## Moh. Ali Fauzi
+## Data Science
+
 ########################## Perancangan Program ############################
 judul_kolom = ['Kode Barang', 'Nama Barang', 'Kategori', 'Stok Barang', 'Harga Satuan', 'Nama Sales']
 barang = [['PP01', 'Sabuk Maritop', 'Sabuk', 15, 50000, 'Sales A'],
