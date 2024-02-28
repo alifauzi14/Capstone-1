@@ -3,7 +3,7 @@
 # Shop Sale Program
 
 ## Context
-This project is an implementation of a shop sale program in Python. The program allows users to display a shop lists, so users as buyers can view and buy a product what the buyer wants. It is built with the aim of providing a list of products and how many stocks are available. So, this application has 2 main users, user as an owner shop that can using full CRUD features (Create / Read / Update / Deletes), and user as a buyer that can only using a part of the CRUD features (Create / Read / Update / Deletes).
+This project is an implementation of a shop sale program in Python. The program allows users to display a shop lists, so users as buyers can view and buy a product what the buyer wants. It is built with the aim of providing a list of products and how many stocks are available. So, this application has 2 main users, user as an owner shop that can using full CRUD features (Create / Read / Update / Deletes), and user as a buyer that can only using a part of the CRUD features (only read and buy products).
 
 ## Business Tasks
 Business Tasks for this application is how to write an application so buyers can view and buy a product online without going to the store. 
